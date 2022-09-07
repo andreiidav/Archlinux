@@ -3,7 +3,7 @@
 ### Tastatur Layout
 	' loadkeys de-latin1 '
 ## Erstes Bild
-![Alt-Text] (Bilder/git_repository.png)
+![Alt-Text](Bilder/git_repository.png)
 
 ## Überprüfen wie die Festplatte heißt
 
@@ -31,4 +31,4 @@
 	mkfs.ext4 /dev/sda3
 	mkfs.ex4 /dev/sda4
 ### DokumentationFoto
-![Alt-text] (bilder/dokumentation.png)
+![Alt-text](Bilder/dokumentation.png)
